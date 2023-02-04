@@ -2,6 +2,9 @@
 requires = ["setuptools", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
+[project]
+name = "python-template"
+
 [tool.commitizen]
 name = "cz_conventional_commits"
 version = "0.0.2"
